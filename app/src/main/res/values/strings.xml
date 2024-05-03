@@ -1,0 +1,70 @@
+<resources>
+    <string name="app_name" translatable="false">Number Cruncher</string>
+
+    <string name="instagram_url" translatable="false"></string>
+
+    <string name="privacy_policy" translatable="false"></string>
+
+
+
+    //home
+    <string name="play">PLAY</string>
+    <string name="levels">LEVELS</string>
+    <string name="language">LANGUAGES</string>
+    <string name="sound">SOUNDS ON</string>
+    <string name="setting">SETTINGS</string>
+    <string name="exit">EXIT</string>
+
+    //select language
+    <string name="english">English</string>
+    <string name="hindi">हिंदी (Hindi)</string>
+    <string name="spanish">Español (Spanish)</string>
+    <string name="portugese">português (Portuguese)</string>
+    <string name="indonesian">bahasa Indonesia (Indonesian)</string>
+    <string name="turkish">Türkçe (Turkish)</string>
+    <string name="japanese">日本語 (Japanese)</string>
+    <string name="german">Deutsch (German)</string>
+    <string name="italian">italiano (Italian)</string>
+    <string name="thai">แบบไทย (Thai)</string>
+
+
+    //leveshow
+    <string name="answer">Answer</string>
+    <string name="enter">ENTER</string>
+    <string name="level">LEVEL</string>
+
+    //language
+    <string name="selectlanguage">Select Language</string>
+
+    //correct
+    <string name="correct">CORRECT</string>
+    <string name="refernextlevel">Referring to the next level!!</string>
+    <string name="nextlevel">Next Level</string>
+
+    //exitapp
+    <string name="exitapp">EXIT APP?</string>
+    <string name="cancel">Cancel</string>
+    <string name="exit1">Exit</string>
+
+    //close
+    <string name="gotit">Got it, Closer!</string>
+
+    //hint
+    <string name="needhelp">Need Help?</string>
+    <string name="watchad">Watch Ads for</string>
+    <string name="hint">Hint</string>
+    <string name="solution">Solution</string>
+    <string name="nothanks">No thanks</string>
+
+    //clear
+    <string name="clear">Clear</string>
+    <string name="cleardata1">Clear Data?</string>
+    <string name="restart">Restart</string>
+    <string name="close">close</string>
+
+    <string name="privacy_policy_text">Privacy Policy</string>
+
+    <string name="clear_data1">If you clear the data,</string>
+    <string name="clear_data2">you will restart the game from the first level.</string>
+
+</resources>
